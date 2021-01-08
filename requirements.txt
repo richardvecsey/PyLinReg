@@ -1,0 +1,10 @@
+# Library dependencies for the PyLinReg: Linear Regression Model PyStLib project
+# You have to install these libraries, before you can run the code:
+# 'pip install -r requirements.txt'
+
+# Standard library dependencies:
+# datetime.datetime
+# math.sqrt
+# statistics.mean
+
+python>=3.6
