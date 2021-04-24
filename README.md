@@ -1,5 +1,7 @@
-[![Generic badge](https://img.shields.io/badge/Version-1.0.0-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Version-1.0.1-blue)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Python-%3E%3D3.6-blue)](https://shields.io/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/PyLinReg)
+
 
 # PyLinReg
 
