@@ -17,7 +17,6 @@ See accompanying file LICENSE.
 """
 
 
-
 # constants
 __author__ = 'Richárd Ádám Vécsey Dr.'
 __copyright__ = "Copyright 2021, PyLinReg"
@@ -27,11 +26,9 @@ __version__ = '1.0.0'
 __status__ = 'Alpha'
 
 
-
 # import section
 from importlib import import_module
 from ._pylinreg import LinearModel
-
 
 
 import_module('pylinreg')
